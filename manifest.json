@@ -7,5 +7,5 @@
 			"matches": ["https://atnd.ak4.jp/login**"],
 			"js": ["content-script.js"]
 		}
-  ]
+	]
 }
