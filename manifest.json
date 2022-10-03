@@ -4,7 +4,7 @@
 	"version": "1.0",
 	 "content_scripts": [
 		{
-			"matches": ["https://atnd.ak4.jp/login"],
+			"matches": ["https://atnd.ak4.jp/login**"],
 			"js": ["content-script.js"]
 		}
   ]
